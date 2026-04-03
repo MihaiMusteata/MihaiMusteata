@@ -104,28 +104,9 @@ Axios provider for React — JWT auth, refresh token flow, typed API helper.
 
 <p align="center">
   <a href="https://github.com/users/MihaiMusteata/contributions" target="_blank">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/MihaiMusteata/MihaiMusteata/output/github-snake-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/MihaiMusteata/MihaiMusteata/output/github-snake.svg"
-      />
-      <img
-        src="https://raw.githubusercontent.com/MihaiMusteata/MihaiMusteata/output/github-snake.svg"
-        alt="GitHub contribution snake animation"
-      />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/users/MihaiMusteata/contributions" target="_blank">
     <img
-      src="https://ghchart.rshah.org/39d353/MihaiMusteata"
-      alt="GitHub contribution chart"
+      src="https://raw.githubusercontent.com/MihaiMusteata/MihaiMusteata/output/snake.svg"
+      alt="Snake animation"
     />
   </a>
 </p>
